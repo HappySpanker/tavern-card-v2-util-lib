@@ -1,0 +1,28 @@
+{
+  "name": "tavern-card-v2-util-lib",
+  "version": "0.0.1",
+  "description": "Provides a set of utilities for inserting, extracting, updating and removing Tavern Card V2 JSONs files into images.",
+  "main": "./dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HappySpanker/tavern-card-v2-util-lib.git"
+  },
+  "keywords": [
+    "tavern",
+    "card",
+    "v2",
+    "character",
+    "json",
+    "image"
+  ],
+  "author": "HappySpanker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HappySpanker/tavern-card-v2-util-lib/issues"
+  },
+  "homepage": "https://github.com/HappySpanker/tavern-card-v2-util-lib#readme"
+}
