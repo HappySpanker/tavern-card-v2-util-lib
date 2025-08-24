@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/HappySpanker/tavern-card-v2-util-lib/issues"
   },
-  "homepage": "https://github.com/HappySpanker/tavern-card-v2-util-lib#readme"
+  "homepage": "https://github.com/HappySpanker/tavern-card-v2-util-lib#readme",
+  "dependencies": {
+    "pino": "^9.8.0"
+  }
 }
